@@ -480,6 +480,5 @@
   <project path="packages/apps/Contacts"              name="Zipsnet/packages_apps_Contacts"              remote="aokp" revision="jb-mr1" />
   <project path="packages/providers/ContactsProvider" name="Zipsnet/packages_providers_ContactsProvider" remote="aokp" revision="jb-mr1" />       
   <project path="packages/apps/Apollo"                name="Zipsnet/android_packages_apps_Apollo"        remote="aokp" revision="cm-10.1" />
-  <project path="device/htc/endeavoru"                name="Zipsnet/android_device_htc_endeavoru"        remote="aokp" revision="jb-mr1"/>
 
 </manifest>
