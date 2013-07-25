@@ -465,22 +465,22 @@
 
 <!-- Zips -->
 
-  <project path="frameworks/base"                     name="IceColdJelly42/frameworks_base"                     remote="aokp" revision="jb-mr1" />
-  <project path="frameworks/native"                   name="IceColdJelly42/frameworks_native"                   remote="aokp" revision="jb-mr1" /> 
-  <project path="frameworks/av"                       name="IceColdJelly42/frameworks_av"                       remote="aokp" revision="jb-mr1" />
-  <project path="frameworks/rs"                       name="IceColdJelly42/android_frameworks_rs"               remote="aokp" revision="cm-10.1" />
-  <project path="packages/apps/Settings"              name="IceColdJelly42/packages_apps_Settings"              remote="aokp" revision="jb-mr1" />
-  <project path="packages/apps/ROMControl"            name="IceColdJelly42/packages_apps_ROMControl"            remote="aokp" revision="jb-mr1" />
-  <project path="packages/apps/Phone"                 name="IceColdJelly42/packages_apps_Phone"                 remote="aokp" revision="jb-mr1" />
-  <project path="packages/apps/DeskClock"             name="IceColdJelly42/packages_apps_DeskClock"             remote="aokp" revision="jb-mr1" />
-  <project path="packages/apps/Camera"                name="IceColdJelly42/android_packages_apps_Camera"        remote="aokp" revision="jb-mr1-maxwen" />
-  <project path="packages/apps/Gallery2"              name="IceColdJelly42/android_packages_apps_Gallery2"      remote="aokp" revision="jb-mr1" />
+  <project path="frameworks/base"                     name="Zipsnet/frameworks_base"                     remote="aokp" revision="jb-mr1" />
+  <project path="frameworks/native"                   name="Zipsnet/frameworks_native"                   remote="aokp" revision="jb-mr1" /> 
+  <project path="frameworks/av"                       name="Zipsnet/frameworks_av"                       remote="aokp" revision="jb-mr1" />
+  <project path="frameworks/rs"                       name="Zipsnet/android_frameworks_rs"               remote="aokp" revision="cm-10.1" />
+  <project path="packages/apps/Settings"              name="Zipsnet/packages_apps_Settings"              remote="aokp" revision="jb-mr1" />
+  <project path="packages/apps/ROMControl"            name="Zipsnet/packages_apps_ROMControl"            remote="aokp" revision="jb-mr1" />
+  <project path="packages/apps/Phone"                 name="Zipsnet/packages_apps_Phone"                 remote="aokp" revision="jb-mr1" />
+  <project path="packages/apps/DeskClock"             name="Zipsnet/packages_apps_DeskClock"             remote="aokp" revision="jb-mr1" />
+  <project path="packages/apps/Camera"                name="Zipsnet/android_packages_apps_Camera"        remote="aokp" revision="jb-mr1-maxwen" />
+  <project path="packages/apps/Gallery2"              name="Zipsnet/android_packages_apps_Gallery2"      remote="aokp" revision="jb-mr1" />
   <project path="packages/apps/HALO"                  name="ParanoidAndroid/HALO"                               remote="aokp" revision="jellybean" />
-  <project path="packages/apps/PerformanceControl"    name="IceColdJelly42/packages_apps_PerformanceControl"    remote="aokp" revision="jb-mr1" />
-  <project path="packages/apps/DSPManager"            name="IceColdJelly42/android_packages_apps_DSPManager"    remote="aokp" revision="cm-10.1" />
-  <project path="packages/apps/Contacts"              name="IceColdJelly42/packages_apps_Contacts"              remote="aokp" revision="jb-mr1" />
-  <project path="packages/providers/ContactsProvider" name="IceColdJelly42/packages_providers_ContactsProvider" remote="aokp" revision="jb-mr1" />       
-  <project path="packages/apps/Apollo"                name="IceColdJelly42/android_packages_apps_Apollo"        remote="aokp" revision="cm-10.1" />
-  <project path="device/htc/endeavoru"                name="IceColdJelly42/android_device_htc_endeavoru"        remote="aokp" revision="jb-mr1"/>
+  <project path="packages/apps/PerformanceControl"    name="Zipsnet/packages_apps_PerformanceControl"    remote="aokp" revision="jb-mr1" />
+  <project path="packages/apps/DSPManager"            name="Zipsnet/android_packages_apps_DSPManager"    remote="aokp" revision="cm-10.1" />
+  <project path="packages/apps/Contacts"              name="Zipsnet/packages_apps_Contacts"              remote="aokp" revision="jb-mr1" />
+  <project path="packages/providers/ContactsProvider" name="Zipsnet/packages_providers_ContactsProvider" remote="aokp" revision="jb-mr1" />       
+  <project path="packages/apps/Apollo"                name="Zipsnet/android_packages_apps_Apollo"        remote="aokp" revision="cm-10.1" />
+  <project path="device/htc/endeavoru"                name="Zipsnet/android_device_htc_endeavoru"        remote="aokp" revision="jb-mr1"/>
 
 </manifest>
